@@ -19,7 +19,7 @@ sections:
       chair, where I have contributed to curriculum development, faculty
       mentoring, and strategic planning for educational innovation.
     actions:
-      - label: Get started
+      - label: Learn More
         altText: ''
         url: /
         showIcon: false
