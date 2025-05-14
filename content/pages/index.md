@@ -9,9 +9,15 @@ sections:
       type: TitleBlock
     subtitle: Professor | Instructional Technology
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I am a Professor of Instructional Technology with extensive experience in
+      teaching, research, and academic leadership. My research focuses on the
+      design and impact of technology-enhanced learning environments,
+      computational thinking in teacher education, and the online learning. I
+      have taught a wide range of graduate in instructional technology and
+      design. In addition to my scholarly work, I have held various
+      administrative roles, including program coordinator and interim department
+      chair, where I have contributed to curriculum development, faculty
+      mentoring, and strategic planning for educational innovation.
     actions:
       - label: Get started
         altText: ''
