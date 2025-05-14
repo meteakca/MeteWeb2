@@ -39,7 +39,7 @@ sections:
         type: Link
     media:
       url: /images/akcaoglu_2022.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Dr. Mete Akcaoglu
       elementId: ''
       type: ImageBlock
     badge:
