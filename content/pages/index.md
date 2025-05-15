@@ -112,10 +112,9 @@ sections:
               borderRadius: x-large
       - title: Teaching
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Extensive experience teaching instructional technology and design
+          [courses](https://catalog.georgiasouthern.edu/preview_program.php?catoid=15\&poid=11805\&returnto=1722).
         image:
           url: /images/icon2.svg
           altText: Featured icon two
