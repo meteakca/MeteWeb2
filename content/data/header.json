@@ -71,7 +71,19 @@
             "type": "SubNav"
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "https://drive.google.com/file/d/1FaaibrxHUTPRPjpKxdV-VXhxa-zwEXUw/view?usp=drive_link",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
