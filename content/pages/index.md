@@ -61,6 +61,10 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
+    badge:
+      type: Badge
+      label: Ak-cha-oh-loo
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
