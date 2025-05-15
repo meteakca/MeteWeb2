@@ -81,6 +81,10 @@ sections:
         text: >
           Research on technology-rich learning environments and educational
           psychology.
+
+
+          [Stanfords Top %2 Scientist
+          List](https://www.topresearcherslist.com/Home/Profile/895326)
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
