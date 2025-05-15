@@ -67,7 +67,7 @@ sections:
       color: text-primary
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Key Accomplishments
       color: text-dark
       styles:
         self:
