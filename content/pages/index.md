@@ -61,6 +61,10 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
