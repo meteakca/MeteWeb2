@@ -41,6 +41,7 @@ sections:
       altText: Dr. Mete Akcaoglu
       elementId: ''
       type: ImageBlock
+      url: /images/avatar copy.jpeg
     elementId: ''
     colors: bg-light-fg-dark
     styles:
