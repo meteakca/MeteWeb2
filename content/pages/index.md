@@ -76,7 +76,7 @@ sections:
     subtitle: Research | Service | Teaching
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Research
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
