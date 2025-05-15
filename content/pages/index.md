@@ -78,10 +78,9 @@ sections:
       - type: FeaturedItem
         title: Research
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Research on technology-rich learning environments and educational
+          psychology.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
