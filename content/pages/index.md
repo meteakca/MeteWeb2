@@ -73,7 +73,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Research | Service
+    subtitle: Research | Service | Teaching
     items:
       - type: FeaturedItem
         title: 500k
