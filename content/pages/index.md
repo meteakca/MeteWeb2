@@ -77,7 +77,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Research
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Research on technology-rich learning environments and educational
           psychology.
