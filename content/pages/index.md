@@ -38,7 +38,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/abstract-feature2.svg
       altText: Dr. Mete Akcaoglu
       elementId: ''
       type: ImageBlock
